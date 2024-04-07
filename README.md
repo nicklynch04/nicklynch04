@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nicklynch04
+- 👀 I’m interested in Software and Music
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: nicklynch181818@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
